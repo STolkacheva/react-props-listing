@@ -1,7 +1,7 @@
 Список предложений 
-https://stolkacheva.github.io/react-props-listing/
 ===
 
+https://stolkacheva.github.io/react-props-listing/
 Необходимо вывести список предложений каталога Etsy.com, используя библиотеку React. 
 
 ## Данные списка предложений
